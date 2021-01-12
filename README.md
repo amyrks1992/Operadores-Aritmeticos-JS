@@ -1,2 +1,1 @@
-# Operadores-Aritmeticos-JS
-Programa que mostra os operadores aritméticos do Javascript e suas características. 
+Program that presents the arithmetic operators of Javascript and their features. 
